@@ -1,0 +1,26 @@
+# ── Hugo ──────────────────────────────────────────────
+/public/
+/resources/_gen/
+/.hugo_build.lock
+
+# ── Node / Wrangler ───────────────────────────────────
+/node_modules/
+/.wrangler/
+.dev.vars
+npm-debug.log*
+
+# ── Kirby runtime (vendored framework + generated/secret) ──
+# Preserved in history at the import commit; not tracked going forward.
+/kirby/
+/media/
+/site/accounts/
+/site/sessions/
+/site/cache/
+/site/.license
+
+# ── OS / editor cruft ─────────────────────────────────
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/

@@ -1,0 +1,26 @@
+.gallery {
+  display: -ms-grid;
+  display: grid;
+  /*grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));*/
+  -ms-grid-columns: auto 1.5rem auto 1.5rem auto 1.5rem auto;
+  grid-template-columns: auto auto auto auto;
+  grid-gap: 1.5rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.gallery figure a {
+  border: 0;
+}
+
+.gallery figure {
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and (min-width: 45rem) {
+  .gallery, .text > figure {
+    margin-left: -3rem;
+    margin-right: -3rem;
+  }
+}

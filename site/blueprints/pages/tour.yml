@@ -1,0 +1,54 @@
+title: Tour
+
+status:
+  draft:
+    label: Draft
+    text: The note is still in draft mode. It can only be seen by editors with panel access.
+  unlisted:
+    label: Unlisted
+    text: The note is online and can be visited with the direct URL. The team must still give the final go to publish it.
+  listed:
+    label: Listed
+    text: The note is online and listed in the blog
+
+columns:
+  - width: 1/2
+    fields:
+      text:
+        type: textarea
+        size: large
+
+  - width: 1/2
+    sections:
+      drafts:
+        headline: Drafts
+        type: pages
+        status: draft
+        templates: note
+      unlisted:
+        headline: Unlisted Articles
+        type: pages
+        status: unlisted
+        templates: note
+      published:
+        headline: Published Articles
+        type: pages
+        status: listed
+        templates: note
+        info: "{{ page.date.toDate('m/d/y') }}"
+      meta:
+        type: fields
+        fields:
+          date:
+            type: date
+            default: now
+          gallery:
+            type: pages
+            query: site.find("photography").children
+            multiple: false
+            info: "{{ page.images.count }} image(s)"
+            empty: "No gallery selected"
+            image:
+              cover: true
+            help: Place the {{ gallery }} tag anywhere in your text to add the selected gallery
+  
