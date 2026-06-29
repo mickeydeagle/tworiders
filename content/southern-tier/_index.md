@@ -1,0 +1,16 @@
+---
+title: "Southern Tier"
+type: "tour"
+weight: 2
+date: "2006-02-06"
+---
+
+In 2006, my dad and I crossed the United States a second time together (Steve’s third crossing), this time along its southern border. It was a challenging ride, fraught with inclement weather, injury and other adversity. It was also, as can be expected of a months-long bicycle journey, a beautiful experience.
+
+{{< image src="/photography/maps/southern-tier-map.svg" class="map" >}}
+
+The Southern Tier tour journal has an unfortunate caveat: somewhere between early 2006 and today, large sections of my writing were lost. Every letter was tapped into a dusty old iBook from 2004. There was never a paper version. Several years and web servers later, the online journal regrettably suffered some deterioration, surely my fault for not keeping adequate backups. At any rate, I was able to transcribe the entirety of Steve’s own tour journal, kept on good, old fashioned paper. His words thankfully fill the gaps quite well.
+
+You’ll be able to determine the author of an entry by noting the byline. The tone of the writing should also generally give it away: Steve’s and my writing are often in sharp contrast. This is mainly a function of our intended audiences. I have always written this journal to paint a picture of bicycle touring for my friends and family. My goal is to inspire and entertain. Steve, on the other hand, kept more personal notes. His writing is less imaginative, and focuses more on the details that he’d like to recall at some later date. He’s known to flip through the pages of his small black book with a smirk, recalling fierce headwinds and brutal cold. His words are generally less positive, but perhaps more realistic. It’s true that the Southern Tier route was not without its hardships.
+
+At any rate, the journal is as complete as it will ever be. You can start reading from [the beginning](/southern-tier/orlando), or go to any specific entry using the index below. There is a lot of [photography](/photography) to see as well.

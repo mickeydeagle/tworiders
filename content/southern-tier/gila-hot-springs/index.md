@@ -1,0 +1,18 @@
+---
+title: "Gila Hot Springs, New Mexico"
+type: "note"
+date: "2006-03-26"
+weight: 20060326
+author: "Mickey Deagle"
+shortname: "Gila Hot Springs"
+tags:
+  - "New Mexico"
+---
+
+Ready to commit to the route through Gila Hot Springs, we broke away from an alternate route which was much shorter and flatter. The wind kept our speed low on the flats, and the hills kept our speed even lower on the hills. We would have a massive climb and a steep descent to enter Gila wilderness. After coming across several closed grocery stores, we finally managed to get the owner of the store at Lake Roberts to temporarily open his store so we could buy some food. Our groceries were overpriced, but it was all we could find on a Sunday.
+
+The main climb was mentally difficult because we knew we would be riding back out the next day. And it was steep. The uphill was a five mile per hour pace for a couple of hours. The downhill was too steep to enjoy; it passed like a blur, my hands frantically trying to grab the brakes to keep my speed below forty miles per hour. There were no guard rails on the tight turns and switchbacks, and I could imagine myself launching over the cracked surface of the road and hurtling into an abyss several hundred feet down.
+
+{{< gallery >}}
+
+We finally got our bikes to stop, and with hot rims and brake pads, we slowly rolled into a campground called Grapevine. It was dry, but we had packed water. The only unfortunate aspect of the area was the lack of picnic tables. We started a small fire to keep warm and sat on some large rocks. We prepared our overpriced dinner in our laps. Tomorrow we shall take a tour of the cliff dwellings. As happy as I am, I can’t help but worry about dragging myself back out of the hole we’re in.

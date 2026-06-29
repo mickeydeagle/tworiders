@@ -1,0 +1,41 @@
+{{ define "main" }}
+{{- $page := . -}}
+
+<header class="album-header">
+  {{- $coverURL := .Params.cover -}}
+  {{- with .Resources.GetMatch (.Params.cover | default "___none___") -}}
+    {{- $coverURL = (.Resize "1600x webp").RelPermalink -}}
+  {{- end -}}
+  {{- with $coverURL }}
+  <figure class="album-cover">
+    <img src="{{ . }}" alt="{{ $page.Title }}">
+    <figcaption><h1>{{ $page.Params.headline | default $page.Title }}</h1></figcaption>
+  </figure>
+  {{- end }}
+</header>
+
+<main class="album">
+  <article>
+    <div class="album-text text">
+      {{ .Content }}
+      {{- with .Params.tags }}<p class="album-tags tags">{{ delimit . ", " }}</p>{{ end }}
+    </div>
+
+    {{- $images := .Resources.ByType "image" }}
+    <ul class="album-gallery"{{ if eq (mod (len $images) 2) 0 }} data-even{{ end }} data-count="{{ len $images }}">
+      {{- range $images }}
+      {{- $t := partial "thumb.html" . }}
+      <li>
+        <figure>
+          <a class="lightbox" href="{{ .RelPermalink }}" data-caption="{{ .Params.alt }}">
+            <img src="{{ $t.RelPermalink }}" width="{{ $t.Width }}" height="{{ $t.Height }}" alt="{{ .Params.alt }}" loading="lazy" decoding="async">
+          </a>
+        </figure>
+      </li>
+      {{- end }}
+    </ul>
+
+    {{ partial "prevnext.html" (dict "ordered" .Parent.Pages.ByWeight "current" .) }}
+  </article>
+</main>
+{{ end }}

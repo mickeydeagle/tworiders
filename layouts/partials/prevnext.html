@@ -1,0 +1,27 @@
+{{- /* Prev/next within an ordered slice of pages.
+       Input: dict "ordered" <pages> "current" <page>. */ -}}
+{{- $ordered := .ordered -}}
+{{- $cur := .current -}}
+{{- $prev := false -}}
+{{- $next := false -}}
+{{- $n := len $ordered -}}
+{{- range $i, $p := $ordered -}}
+  {{- if eq $p.RelPermalink $cur.RelPermalink -}}
+    {{- if gt $i 0 }}{{ $prev = index $ordered (sub $i 1) }}{{ end -}}
+    {{- if lt $i (sub $n 1) }}{{ $next = index $ordered (add $i 1) }}{{ end -}}
+  {{- end -}}
+{{- end -}}
+{{- if or $prev $next }}
+<nav class="post-navigation">
+  {{- with $prev }}
+  <div class="prev">
+    <a href="{{ .RelPermalink }}">Prev.<span class="dot"></span><span class="post-navigation-title">{{ .Params.shortname | default .Title }}</span></a>
+  </div>
+  {{- end }}
+  {{- with $next }}
+  <div class="next">
+    <a href="{{ .RelPermalink }}"><span class="post-navigation-title">{{ .Params.shortname | default .Title }}</span><span class="dot"></span>Next</a>
+  </div>
+  {{- end }}
+</nav>
+{{- end }}

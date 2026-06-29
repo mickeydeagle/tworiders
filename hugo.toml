@@ -1,0 +1,38 @@
+baseURL = "https://www.tworiders.com/"
+languageCode = "en-us"
+title = "Two Riders"
+enableRobotsTXT = true
+enableGitInfo = false
+
+# No taxonomy/term pages, no RSS — the original site had none.
+disableKinds = ["taxonomy", "term", "RSS"]
+disableHugoGeneratorInject = true
+
+[params]
+  description = "The bicycle journal of two riders on loaded touring bikes. The story of two treks across the United States: Oregon to Virginia and Florida to California."
+  author = "Mickey Deagle"
+
+[outputs]
+  home = ["HTML"]
+
+[imaging]
+  quality = 82
+  resampleFilter = "Lanczos"
+  [imaging.exif]
+    disableDate = true
+    disableLatLong = true
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true          # the migrated content uses inline HTML (<small>, the chapters TOC)
+  [markup.goldmark.extensions.typographer]
+    disable = false
+
+[caches]
+  [caches.images]
+    maxAge = "720h"
+
+[minify]
+  disableXML = true
+  [minify.tdewolff.html]
+    keepWhitespace = true   # don't collapse significant whitespace between inline type

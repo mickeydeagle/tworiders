@@ -1,0 +1,16 @@
+---
+title: "Blanco, Texas"
+type: "note"
+date: "2006-03-09"
+weight: 20060309
+author: "Mickey Deagle"
+shortname: "Blanco"
+tags:
+  - "Texas"
+---
+
+Finally finished with Austin, we embarked westward again. Traffic was heavy for a bit, and then became sparse as we left the population center. We had fierce headwinds to fight all day and rolling hills. Traffic again became busy, and the road provided no shoulder. We were so focused on maintaining a straight line with cars screaming past that we were unable to enjoy the scenery. Steve and I were run off the road a few times by careless drivers.
+
+We pushed onward with the hope of relaxing in town, but we arrived in Blanco fairly late and decided to eat at a restaurant, quickly do our laundry and get to bed. We just learned that March is New Mexico’s windiest month, with sustained thirty to forty mile per hour winds heading east. I wish someone had told us that about six months ago. I suppose it just means we will be stronger when we return. And so ends my complaints about the wind, at least temporarily.
+
+Dinner was a couple of hamburgers and a pound of french fries in a restaurant connected to the service station in town. The food was inexpensive, and worth every penny.

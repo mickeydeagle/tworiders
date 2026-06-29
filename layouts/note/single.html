@@ -1,0 +1,19 @@
+{{ define "main" }}
+<main>
+  <article class="note">
+    <header class="note-header intro">
+      <h1>{{ .Title }}</h1>
+      <div class="note-byline">
+        {{- with .Params.author }}By {{ . }}<span class="dot"></span>{{ end -}}
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+      </div>
+    </header>
+
+    <div class="note-text text">
+      {{ .Content }}
+    </div>
+  </article>
+
+  {{ partial "prevnext.html" (dict "ordered" .Parent.Pages.ByDate "current" .) }}
+</main>
+{{ end }}

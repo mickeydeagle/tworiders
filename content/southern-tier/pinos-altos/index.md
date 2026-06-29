@@ -1,0 +1,20 @@
+---
+title: "Pinos Altos, New Mexico"
+type: "note"
+date: "2006-03-27"
+weight: 20060327
+author: "Mickey Deagle"
+shortname: "Pinos Altos"
+tags:
+  - "New Mexico"
+---
+
+We rose to the rushing sound of the Gila River just north of camp. I slept well, except that I was stirred from unconsciousness several times when the wind shifted in such a way as to waft the odor of a decaying javelina towards my tent. Steve and I confirmed the source of the foul odor yesterday. Also unpleasant was the number of people who had arrived in the campground late last. At least three vehicles and half a dozen dogs roamed the wooded hills for some time before settling down. I was surrounded by growling dogs at one point in the night. They were eventually called off by their owners, but not before I was left a bit uncomfortable and annoyed.
+
+We readied ourselves for the short ride to the Gila cliff dwellings. More downhill. Riding back over the pass would be nightmarish. At this point we could only hope that the national monument was worth the pain. We arrived at the visitors center and milled about. A man was trying out the Native American flutes they sold in the gift shop. He was able to exactly replicate the music on the CDs they were also selling in the gift shop. A talented musician to be sure.
+
+We left to ride to the caves where ancient man apparently lived many years ago. There were about five others getting ready to walk to the caves, and this was a surprise; we had expected the crowd to be large and obnoxious, much like the mobs at Old Faithful we remembered from our previous tour. We paid our three bucks apiece and walked the trail to the cliff dwellings. The ruins were fantastic. Deep caves with stone-walled rooms built into them served as protection from enemies and the elements. Things were well-preserved. We spent some time walking through dozens of rooms in several large caves.
+
+{{< gallery >}}
+
+Short on time, we made lunch and drank a cup of coffee that the park ranger had offered us. He said, “What are we, if we are not hospitable.” The uphill commenced immediately. About ten miles later and almost two thousand feet, we were on top of the pass that separated the Gila wilderness from the rest of the world. We were both weary, but the descent was sweet. Traffic was light. We returned to the depression on the other side where we had stood the day before. Now to climb an equally lofty pass towards the west. A mental challenge, we pushed the pedals and climbed again. Dusk was falling upon us. We passed up two dry campgrounds because we didn’t have very much water. Turning down an offer from a gentleman we met on the road to stay at the fire station in Silver City, we opted for a shorter day at the RV park in Pinos Altos, seven miles short of our goal. We would have been riding in the dark. The hills were killers today. Our speed was low, our legs and minds tired. We decided that we ought to get a cabin for the night because it looked like it might rain. It’s clearing up a bit now, but a bed under a roof is nonetheless a luxury I can enjoy.

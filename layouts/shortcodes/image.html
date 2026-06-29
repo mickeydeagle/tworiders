@@ -1,0 +1,7 @@
+{{- /* {{< image src="/path" class="img-wide|map" alt="…" >}} — a shared/static image (covers, maps). */ -}}
+{{- $src := .Get "src" -}}
+{{- $class := .Get "class" -}}
+{{- $alt := .Get "alt" | default "" -}}
+<figure{{ with $class }} class="{{ . }}"{{ end }}>
+  <img src="{{ $src }}" alt="{{ $alt }}" loading="lazy" decoding="async">
+</figure>

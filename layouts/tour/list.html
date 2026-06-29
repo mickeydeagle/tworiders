@@ -1,0 +1,27 @@
+{{ define "main" }}
+<main>
+  <header class="intro">
+    <h1>{{ .Title }}</h1>
+  </header>
+
+  <div class="text note">
+    {{ .Content }}
+
+    {{- /* Index grouped by state (tag), in chronological order of first appearance. */ -}}
+    {{- $pages := .Pages.ByDate -}}
+    {{- $states := slice -}}
+    {{- range $pages }}{{ range .Params.tags }}{{ if not (in $states .) }}{{ $states = $states | append . }}{{ end }}{{ end }}{{ end -}}
+    {{- range $state := $states }}
+    <h2>{{ $state }}</h2>
+    <div class="toc">
+      {{- range $pages }}{{ if in .Params.tags $state }}
+      <div class="toc-entry">
+        <div class="toc-chapter"><a href="{{ .RelPermalink }}">{{ .Params.shortname | default .Title }}</a></div>
+        <div class="toc-page"><a href="{{ .RelPermalink }}"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2" }}</time></a></div>
+      </div>
+      {{- end }}{{ end }}
+    </div>
+    {{- end }}
+  </div>
+</main>
+{{ end }}

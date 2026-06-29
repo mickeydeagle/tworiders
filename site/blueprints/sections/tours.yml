@@ -1,7 +1,0 @@
-type: pages
-headline: Tours
-parent: site.find("tours")
-info: "{{ page.date.toDate('Y') }}"
-template: tour
-empty: No tours yet
-sortBy: date asc

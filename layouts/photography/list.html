@@ -1,0 +1,25 @@
+{{ define "main" }}
+<main>
+  <header class="intro">
+    <h1>{{ .Title }}</h1>
+  </header>
+
+  {{- $albums := .Pages.ByWeight -}}
+  <ul class="albums"{{ if eq (mod (len $albums) 2) 0 }} data-even{{ end }}>
+    {{- range $album := $albums }}
+    {{- $coverURL := $album.Params.cover -}}
+    {{- with $album.Resources.GetMatch ($album.Params.cover | default "___none___") -}}
+      {{- $coverURL = (.Fill "640x800 webp").RelPermalink -}}
+    {{- end }}
+    <li>
+      <a href="{{ $album.RelPermalink }}">
+        <figure>
+          {{- with $coverURL }}<img src="{{ . }}" alt="{{ $album.Title }}" loading="lazy" decoding="async">{{ end }}
+          <figcaption>{{ $album.Title }}</figcaption>
+        </figure>
+      </a>
+    </li>
+    {{- end }}
+  </ul>
+</main>
+{{ end }}

@@ -1,0 +1,4 @@
+{{- /* Square, non-upscaling WebP thumbnail. Input: an image Resource. Returns: a Resource. */ -}}
+{{- $img := . -}}
+{{- $s := math.Min 540 (math.Min $img.Width $img.Height) | int -}}
+{{- return ($img.Fill (printf "%dx%d webp" $s $s)) -}}

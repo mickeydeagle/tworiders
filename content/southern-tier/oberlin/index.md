@@ -1,0 +1,20 @@
+---
+title: "Oberlin, Louisiana"
+type: "note"
+date: "2006-03-01"
+weight: 20060301
+author: "Mickey Deagle"
+shortname: "Oberlin"
+tags:
+  - "Louisiana"
+---
+
+We woke early and rode through rural roads and fresh air in the morning. We came across a small grocery store at about noon. A large hand-painted sign out front read: Hot Boudin + Cold Beer = Good Company. Not knowing what boudin was, Steve entered the store to find out. An old man indicated that boudin was a sausage with rice and spices, definitely a food of the locale. He also said that there two days that he didn’t prepare boudin: Ash Wednesday and Good Friday. As was our luck so far, it was Ash Wednesday. He paused a moment, then told his wife, who was standing at the end of the ancient store counter, that he would make an exception. He had a few leftover sausages in the refrigerator, and he would cook them up for us.
+
+Boudin is pretty tasty. The seasoning was fantastic. We skipped the recommended beer and continued our ride. We noticed piles of purple and green beads on the side of the road for miles. These roads were the Mardi Gras parade routes. Thankfully, we weren’t stuck in any parades yesterday. Only beads on the side of the road and horse poop. Lots of beads and poop.
+
+We saw a flock of white ibises in one of the crawfish fields. They stood out against the muddy water. A farmer driving his paddle boat startled them to flight; the sky was shimmering with the whites of their wings.
+
+We rolled into Oberlin, and we were asking folks if the city park was available for camping. We asked one fellow at the local grocery store, and he said that it would be okay to camp nearly anywhere in town. We rode to the park, which was somewhat uninviting, and sat on park benches for a bit. The man we spoke to at the grocery store, Dale, drove by the park and invited us to have a drink at his place. We could set up tents on his lawn. We agreed.
+
+About a mile on the bikes, we arrived at Dale and Terry’s home. Dale was cooking food on a grill. We had beer and ate. We learned that the couple were from Wisconsin. We chatted for a while, then prepared for bed.

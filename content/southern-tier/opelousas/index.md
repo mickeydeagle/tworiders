@@ -1,0 +1,22 @@
+---
+title: "Opelousas, Louisiana"
+type: "note"
+date: "2006-02-28"
+weight: 20060228
+author: "Mickey Deagle"
+shortname: "Opelousas"
+tags:
+  - "Louisiana"
+---
+
+It is Steve’s birthday today. It is also Mardi Gras. It rained a bit. It was very windy, which is becoming an unwelcome trend. Our average speed drops several miles per hour when the wind opposes our path, and that, in turn, means more frustrating hours in the saddle. Enough about the wind for now.
+
+{{< gallery >}}
+
+The scenery wasn’t fantastic. We passed many shallow ponds or flooded fields, each with rows of hundreds of crawfish traps half-submerged. A few times we saw farmers in flat-bottom boats with a revolving paddle in the stern. They were floating along the rows, pulling up the traps one by one and occasionally emptying a crawfish into a bucket in the boat.
+
+We were told about Mardi Gras parades and the possibility of getting stuck in one. One man, fueling a small airplane, told us we had better pick a different street to ride on because we were on a parade route scheduled in the very near future. We successfully avoided any parade-related delays.
+
+As I cooked our dinner, I noticed our stove fuel canister getting light. We have not been able to find butane-propane canisters along the way. I hope we can find fuel before we run out. I would hate to wake up without coffee and oatmeal.
+
+We will have to wait on Steve’s birthday dinner; the situation does not look promising. I am sure we’ll find a nice little town with a nice little restaurant, and then we’ll celebrate.
