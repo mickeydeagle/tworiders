@@ -3,7 +3,7 @@ title: "Acknowledgments"
 type: "note"
 date: "2004-09-13"
 weight: 20040913
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Acknowledgments"
 tags:
   - "Notes"

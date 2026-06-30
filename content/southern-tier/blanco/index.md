@@ -3,7 +3,7 @@ title: "Blanco, Texas"
 type: "note"
 date: "2006-03-09"
 weight: 20060309
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Blanco"
 tags:
   - "Texas"

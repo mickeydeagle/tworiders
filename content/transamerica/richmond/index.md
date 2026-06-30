@@ -3,7 +3,7 @@ title: "Richmond, Virginia"
 type: "note"
 date: "2004-08-26"
 weight: 20040826
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Richmond"
 tags:
   - "Virginia"

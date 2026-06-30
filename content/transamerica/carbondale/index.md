@@ -3,7 +3,7 @@ title: "Carbondale, Illinois"
 type: "note"
 date: "2004-08-08"
 weight: 20040808
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Carbondale"
 tags:
   - "Illinois"

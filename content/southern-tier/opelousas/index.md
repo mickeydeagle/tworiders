@@ -3,7 +3,7 @@ title: "Opelousas, Louisiana"
 type: "note"
 date: "2006-02-28"
 weight: 20060228
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Opelousas"
 tags:
   - "Louisiana"

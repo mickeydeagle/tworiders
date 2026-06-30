@@ -3,7 +3,7 @@ title: "Sanderson, Texas"
 type: "note"
 date: "2006-03-15"
 weight: 20060315
-author: "Mickey & Steve Deagle"
+author: "Steve"
 shortname: "Sanderson"
 tags:
   - "Texas"

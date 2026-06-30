@@ -3,7 +3,7 @@ title: "Wickenburg, Arizona"
 type: "note"
 date: "2006-04-02"
 weight: 20060402
-author: "Mickey & Steve Deagle"
+author: "Steve"
 shortname: "Wickenburg"
 tags:
   - "Arizona"

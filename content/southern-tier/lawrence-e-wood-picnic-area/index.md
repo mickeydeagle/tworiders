@@ -3,7 +3,7 @@ title: "Lawrence E. Wood Picnic Area, Texas"
 type: "note"
 date: "2006-03-19"
 weight: 20060319
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Lawrence E. Wood Picnic Area"
 tags:
   - "Texas"

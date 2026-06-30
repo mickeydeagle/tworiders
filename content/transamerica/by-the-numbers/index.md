@@ -3,7 +3,7 @@ title: "By the Numbers"
 type: "note"
 date: "2004-09-11"
 weight: 20040911
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "By the Numbers"
 tags:
   - "Notes"

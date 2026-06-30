@@ -3,7 +3,7 @@ title: "Black River State Park, Florida"
 type: "note"
 date: "2006-02-18"
 weight: 20060218
-author: "Mickey & Steve Deagle"
+author: "Steve"
 shortname: "Black River State Park"
 tags:
   - "Florida"

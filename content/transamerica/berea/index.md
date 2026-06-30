@@ -3,7 +3,7 @@ title: "Berea, Kentucky"
 type: "note"
 date: "2004-08-14"
 weight: 20040814
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Berea"
 tags:
   - "Kentucky"

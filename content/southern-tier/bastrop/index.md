@@ -3,7 +3,7 @@ title: "Bastrop, Texas"
 type: "note"
 date: "2006-03-07"
 weight: 20060307
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Bastrop"
 tags:
   - "Texas"

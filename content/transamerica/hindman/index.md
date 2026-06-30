@@ -3,7 +3,7 @@ title: "Hindman, Kentucky"
 type: "note"
 date: "2004-08-16"
 weight: 20040816
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Hindman"
 tags:
   - "Kentucky"

@@ -3,7 +3,7 @@ title: "Globe, Arizona"
 type: "note"
 date: "2006-03-31"
 weight: 20060331
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Globe"
 tags:
   - "Arizona"

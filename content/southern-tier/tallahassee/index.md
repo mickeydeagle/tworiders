@@ -3,7 +3,7 @@ title: "Tallahassee, Florida"
 type: "note"
 date: "2006-02-13"
 weight: 20060213
-author: "Mickey & Steve Deagle"
+author: "Steve"
 shortname: "Tallahassee"
 tags:
   - "Florida"

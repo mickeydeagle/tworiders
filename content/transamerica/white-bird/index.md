@@ -3,7 +3,7 @@ title: "White Bird, Idaho"
 type: "note"
 date: "2004-06-29"
 weight: 20040629
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "White Bird"
 tags:
   - "Idaho"

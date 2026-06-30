@@ -3,7 +3,7 @@ title: "Baker City, Oregon"
 type: "note"
 date: "2004-06-25"
 weight: 20040625
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Baker City"
 tags:
   - "Oregon"

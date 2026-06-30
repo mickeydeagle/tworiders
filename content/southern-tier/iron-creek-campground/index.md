@@ -3,7 +3,7 @@ title: "Iron Creek Campground, New Mexico"
 type: "note"
 date: "2006-03-25"
 weight: 20060325
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Iron Creek Campground"
 tags:
   - "New Mexico"

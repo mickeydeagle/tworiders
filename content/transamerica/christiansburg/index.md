@@ -3,7 +3,7 @@ title: "Christiansburg, Virginia"
 type: "note"
 date: "2004-08-20"
 weight: 20040820
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Christiansburg"
 tags:
   - "Virginia"

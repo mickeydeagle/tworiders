@@ -3,7 +3,7 @@ title: "Orlando, Florida"
 type: "note"
 date: "2006-02-05"
 weight: 20060205
-author: "Mickey & Steve Deagle"
+author: "Steve"
 shortname: "Orlando"
 tags:
   - "Florida"

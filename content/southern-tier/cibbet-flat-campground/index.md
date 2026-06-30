@@ -3,7 +3,7 @@ title: "Cibbet Flat Campground, California"
 type: "note"
 date: "2006-04-07"
 weight: 20060407
-author: "Mickey & Steve Deagle"
+author: "Steve"
 shortname: "Cibbet Flat Campground"
 tags:
   - "California"

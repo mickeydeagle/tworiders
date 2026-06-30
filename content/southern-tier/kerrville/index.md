@@ -3,7 +3,7 @@ title: "Kerrville, Texas"
 type: "note"
 date: "2006-03-10"
 weight: 20060310
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Kerrville"
 tags:
   - "Texas"

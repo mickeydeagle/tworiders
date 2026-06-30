@@ -3,7 +3,7 @@ title: "Rickreall, Oregon"
 type: "note"
 date: "2004-06-17"
 weight: 20040617
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Rickreall"
 tags:
   - "Oregon"

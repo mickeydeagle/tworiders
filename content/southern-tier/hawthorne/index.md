@@ -3,7 +3,7 @@ title: "Hawthorne, Florida"
 type: "note"
 date: "2006-02-08"
 weight: 20060208
-author: "Mickey & Steve Deagle"
+author: "Steve"
 shortname: "Hawthorne"
 tags:
   - "Florida"

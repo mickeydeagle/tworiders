@@ -3,7 +3,7 @@ title: "Johnsons Shut-Ins, Missouri"
 type: "note"
 date: "2004-08-06"
 weight: 20040806
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Johnson's Shut-Ins"
 tags:
   - "Missouri"

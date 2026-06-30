@@ -3,7 +3,7 @@ title: "Merryville, Louisiana"
 type: "note"
 date: "2006-03-02"
 weight: 20060302
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Merryville"
 tags:
   - "Louisiana"

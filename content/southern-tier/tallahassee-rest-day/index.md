@@ -3,7 +3,7 @@ title: "Tallahassee, Florida (Rest Day)"
 type: "note"
 date: "2006-02-14"
 weight: 20060214
-author: "Mickey & Steve Deagle"
+author: "Steve"
 shortname: "Tallahassee"
 tags:
   - "Florida"

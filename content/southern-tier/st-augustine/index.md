@@ -3,7 +3,7 @@ title: "St. Augustine, Florida"
 type: "note"
 date: "2006-02-06"
 weight: 20060206
-author: "Mickey & Steve Deagle"
+author: "Steve"
 shortname: "St. Augustine"
 tags:
   - "Florida"

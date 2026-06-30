@@ -3,7 +3,7 @@ title: "Amistad National Recreation Area, Texas"
 type: "note"
 date: "2006-03-13"
 weight: 20060313
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Amistad National Recreation Area"
 tags:
   - "Texas"

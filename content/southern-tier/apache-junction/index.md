@@ -3,7 +3,7 @@ title: "Apache Junction, Arizona"
 type: "note"
 date: "2006-04-01"
 weight: 20060401
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Apache Junction"
 tags:
   - "Arizona"

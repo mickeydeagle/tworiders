@@ -3,7 +3,7 @@ title: "McKinney Falls State Park, Texas"
 type: "note"
 date: "2006-03-08"
 weight: 20060308
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "McKinney Falls State Park"
 tags:
   - "Texas"

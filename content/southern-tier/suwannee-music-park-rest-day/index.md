@@ -3,7 +3,7 @@ title: "Suwannee Music Park, Florida (Rest Day)"
 type: "note"
 date: "2006-02-11"
 weight: 20060211
-author: "Mickey & Steve Deagle"
+author: "Steve"
 shortname: "Suwannee Music Park"
 tags:
   - "Florida"

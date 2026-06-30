@@ -3,7 +3,7 @@ title: "Sheridan Lake, Kansas"
 type: "note"
 date: "2004-07-25"
 weight: 20040725
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Sheridan Lake"
 tags:
   - "Kansas"

@@ -3,7 +3,7 @@ title: "Fabens, Texas"
 type: "note"
 date: "2006-03-21"
 weight: 20060321
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Fabens"
 tags:
   - "Texas"

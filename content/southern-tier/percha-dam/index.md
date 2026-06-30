@@ -3,7 +3,7 @@ title: "Percha Dam, New Mexico"
 type: "note"
 date: "2006-03-24"
 weight: 20060324
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Percha Dam"
 tags:
   - "New Mexico"

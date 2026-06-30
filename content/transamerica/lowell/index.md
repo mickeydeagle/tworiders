@@ -3,7 +3,7 @@ title: "Lowell, Idaho"
 type: "note"
 date: "2004-07-01"
 weight: 20040701
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Lowell"
 tags:
   - "Idaho"

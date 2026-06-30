@@ -3,7 +3,7 @@ title: "Kountze, Texas"
 type: "note"
 date: "2006-03-03"
 weight: 20060303
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Kountze"
 tags:
   - "Texas"

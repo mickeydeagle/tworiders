@@ -3,7 +3,7 @@ title: "Prineville, Oregon"
 type: "note"
 date: "2004-06-22"
 weight: 20040622
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Prineville"
 tags:
   - "Oregon"

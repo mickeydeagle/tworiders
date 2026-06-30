@@ -3,7 +3,7 @@ title: "Florence, Montana"
 type: "note"
 date: "2004-07-03"
 weight: 20040703
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Florence"
 tags:
   - "Montana"

@@ -3,7 +3,7 @@ title: "Shalimar, Florida (Rest Day)"
 type: "note"
 date: "2006-02-17"
 weight: 20060217
-author: "Mickey & Steve Deagle"
+author: "Steve"
 shortname: "Shalimar"
 tags:
   - "Florida"

@@ -3,7 +3,7 @@ title: "Pittsburg, Missouri"
 type: "note"
 date: "2004-08-02"
 weight: 20040802
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Pittsburgh"
 tags:
   - "Missouri"

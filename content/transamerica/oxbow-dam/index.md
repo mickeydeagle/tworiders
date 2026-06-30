@@ -3,7 +3,7 @@ title: "Oxbow Dam, Oregon"
 type: "note"
 date: "2004-06-27"
 weight: 20040627
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Oxbow Dam"
 tags:
   - "Oregon"

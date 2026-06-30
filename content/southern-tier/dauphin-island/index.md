@@ -3,7 +3,7 @@ title: "Dauphin Island, Alabama"
 type: "note"
 date: "2006-02-20"
 weight: 20060220
-author: "Mickey & Steve Deagle"
+author: "Steve"
 shortname: "Dauphin Island"
 tags:
   - "Alabama"

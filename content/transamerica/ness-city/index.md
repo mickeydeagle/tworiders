@@ -3,7 +3,7 @@ title: "Ness City, Kansas"
 type: "note"
 date: "2004-07-27"
 weight: 20040727
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Ness City"
 tags:
   - "Kansas"

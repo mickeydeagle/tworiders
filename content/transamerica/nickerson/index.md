@@ -3,7 +3,7 @@ title: "Nickerson, Kansas"
 type: "note"
 date: "2004-07-29"
 weight: 20040729
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Nickerson"
 tags:
   - "Kansas"

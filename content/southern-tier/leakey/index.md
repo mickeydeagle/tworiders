@@ -3,7 +3,7 @@ title: "Leakey, Texas"
 type: "note"
 date: "2006-03-11"
 weight: 20060311
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Leakey"
 tags:
   - "Texas"

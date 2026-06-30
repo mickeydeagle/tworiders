@@ -3,7 +3,7 @@ title: "Safford, Arizona"
 type: "note"
 date: "2006-03-29"
 weight: 20060329
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Safford"
 tags:
   - "Arizona"

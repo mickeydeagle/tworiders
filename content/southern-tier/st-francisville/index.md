@@ -3,7 +3,7 @@ title: "St. Francisville, Louisiana"
 type: "note"
 date: "2006-02-26"
 weight: 20060226
-author: "Mickey & Steve Deagle"
+author: "Steve"
 shortname: "St. Francisville"
 tags:
   - "Louisiana"

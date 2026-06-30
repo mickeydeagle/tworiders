@@ -3,7 +3,7 @@ title: "Monticello, Florida"
 type: "note"
 date: "2006-02-12"
 weight: 20060212
-author: "Mickey & Steve Deagle"
+author: "Steve"
 shortname: "Monticello"
 tags:
   - "Florida"

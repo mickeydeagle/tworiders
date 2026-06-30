@@ -3,7 +3,7 @@ title: "San Diego, California"
 type: "note"
 date: "2006-04-08"
 weight: 20060408
-author: "Mickey & Steve Deagle"
+author: "Steve"
 shortname: "San Diego"
 tags:
   - "California"

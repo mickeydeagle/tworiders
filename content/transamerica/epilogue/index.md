@@ -3,7 +3,7 @@ title: "Epilogue"
 type: "note"
 date: "2004-09-10"
 weight: 20040910
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Epilogue"
 tags:
   - "Notes"

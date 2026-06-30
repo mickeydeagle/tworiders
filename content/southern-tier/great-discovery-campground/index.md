@@ -3,7 +3,7 @@ title: "Great Discovery Campground, Louisiana"
 type: "note"
 date: "2006-02-24"
 weight: 20060224
-author: "Mickey & Steve Deagle"
+author: "Steve"
 shortname: "Great Discovery Campground"
 tags:
   - "Louisiana"

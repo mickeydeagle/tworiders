@@ -3,7 +3,7 @@ title: "Alpine, Texas"
 type: "note"
 date: "2006-03-18"
 weight: 20060318
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Alpine"
 tags:
   - "Texas"

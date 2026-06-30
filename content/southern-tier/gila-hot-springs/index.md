@@ -3,7 +3,7 @@ title: "Gila Hot Springs, New Mexico"
 type: "note"
 date: "2006-03-26"
 weight: 20060326
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Gila Hot Springs"
 tags:
   - "New Mexico"

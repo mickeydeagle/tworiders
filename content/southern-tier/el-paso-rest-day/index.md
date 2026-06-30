@@ -3,7 +3,7 @@ title: "El Paso, Texas (Rest Day)"
 type: "note"
 date: "2006-03-23"
 weight: 20060323
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "El Paso"
 tags:
   - "Texas"

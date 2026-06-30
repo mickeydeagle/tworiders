@@ -3,7 +3,7 @@ title: "Harcuvar, Arizona"
 type: "note"
 date: "2006-04-03"
 weight: 20060403
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Harcuvar"
 tags:
   - "Arizona"

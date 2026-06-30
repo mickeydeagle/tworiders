@@ -3,7 +3,7 @@ title: "Navasota, Texas"
 type: "note"
 date: "2006-03-05"
 weight: 20060305
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Navasota"
 tags:
   - "Texas"

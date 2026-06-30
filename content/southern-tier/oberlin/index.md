@@ -3,7 +3,7 @@ title: "Oberlin, Louisiana"
 type: "note"
 date: "2006-03-01"
 weight: 20060301
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Oberlin"
 tags:
   - "Louisiana"

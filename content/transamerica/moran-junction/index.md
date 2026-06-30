@@ -3,7 +3,7 @@ title: "Hatchet Campground, Moran Junction, Wyoming"
 type: "note"
 date: "2004-07-11"
 weight: 20040711
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Moran Junction"
 tags:
   - "Wyoming"

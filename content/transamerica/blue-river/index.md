@@ -3,7 +3,7 @@ title: "Blue River, Oregon"
 type: "note"
 date: "2004-06-19"
 weight: 20040619
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Blue River"
 tags:
   - "Oregon"

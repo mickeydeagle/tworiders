@@ -3,7 +3,7 @@ title: "Big Lagoon State Park, Florida"
 type: "note"
 date: "2006-02-19"
 weight: 20060219
-author: "Mickey & Steve Deagle"
+author: "Steve"
 shortname: "Big Lagoon State Park"
 tags:
   - "Florida"

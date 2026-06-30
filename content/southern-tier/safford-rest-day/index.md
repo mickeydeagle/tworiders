@@ -3,7 +3,7 @@ title: "Safford, Arizona (Rest Day)"
 type: "note"
 date: "2006-03-30"
 weight: 20060330
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Safford"
 tags:
   - "Arizona"

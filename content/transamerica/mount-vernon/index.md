@@ -3,7 +3,7 @@ title: "Mount Vernon, Oregon"
 type: "note"
 date: "2004-06-23"
 weight: 20040623
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Mount Vernon"
 tags:
   - "Oregon"

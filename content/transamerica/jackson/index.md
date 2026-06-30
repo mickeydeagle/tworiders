@@ -3,7 +3,7 @@ title: "Jackson, Montana"
 type: "note"
 date: "2004-07-05"
 weight: 20040705
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Jackson"
 tags:
   - "Montana"

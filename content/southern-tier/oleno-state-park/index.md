@@ -3,7 +3,7 @@ title: "O'Leno State Park, Florida"
 type: "note"
 date: "2006-02-09"
 weight: 20060209
-author: "Mickey & Steve Deagle"
+author: "Steve"
 shortname: "O'Leno State Park"
 tags:
   - "Florida"

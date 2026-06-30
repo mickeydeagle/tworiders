@@ -3,7 +3,7 @@ title: "Falls of Rough, Kentucky"
 type: "note"
 date: "2004-08-12"
 weight: 20040812
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Falls of Rough"
 tags:
   - "Kentucky"

@@ -3,7 +3,7 @@ title: "Study Butte, Texas"
 type: "note"
 date: "2006-03-16"
 weight: 20060316
-author: "Mickey & Steve Deagle"
+author: "Steve"
 shortname: "Study Butte"
 tags:
   - "Texas"

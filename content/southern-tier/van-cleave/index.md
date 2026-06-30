@@ -3,7 +3,7 @@ title: "Van Cleave, Mississippi"
 type: "note"
 date: "2006-02-21"
 weight: 20060221
-author: "Mickey & Steve Deagle"
+author: "Steve"
 shortname: "Van Cleave"
 tags:
   - "Mississippi"

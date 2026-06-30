@@ -3,7 +3,7 @@ title: "Walden, Colorado"
 type: "note"
 date: "2004-07-17"
 weight: 20040717
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Walden"
 tags:
   - "Colorado"

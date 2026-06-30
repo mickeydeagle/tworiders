@@ -3,7 +3,7 @@ title: "Silverthorne, Colorado"
 type: "note"
 date: "2004-07-19"
 weight: 20040719
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Silverthorne"
 tags:
   - "Colorado"

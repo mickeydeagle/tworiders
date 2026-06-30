@@ -3,7 +3,7 @@ title: "Plateau, Texas"
 type: "note"
 date: "2006-03-20"
 weight: 20060320
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Plateau"
 tags:
   - "Texas"

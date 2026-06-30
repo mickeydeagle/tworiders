@@ -3,7 +3,7 @@ title: "Rogers Lake, Mississippi"
 type: "note"
 date: "2006-02-22"
 weight: 20060222
-author: "Mickey & Steve Deagle"
+author: "Steve"
 shortname: "Rogers Lake"
 tags:
   - "Mississippi"

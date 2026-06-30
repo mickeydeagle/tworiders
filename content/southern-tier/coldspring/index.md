@@ -3,7 +3,7 @@ title: "Coldspring, Texas"
 type: "note"
 date: "2006-03-04"
 weight: 20060304
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Coldspring"
 tags:
   - "Texas"

@@ -3,7 +3,7 @@ title: "Brackettville, Texas"
 type: "note"
 date: "2006-03-12"
 weight: 20060312
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Brackettville"
 tags:
   - "Texas"

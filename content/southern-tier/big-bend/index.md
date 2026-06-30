@@ -3,7 +3,7 @@ title: "Big Bend, Texas"
 type: "note"
 date: "2006-03-17"
 weight: 20060317
-author: "Mickey & Steve Deagle"
+author: "Steve"
 shortname: "Big Bend"
 tags:
   - "Texas"

@@ -3,7 +3,7 @@ title: "Prologue"
 type: "note"
 date: "2004-06-15"
 weight: 20040615
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Prologue"
 tags:
   - "Oregon"

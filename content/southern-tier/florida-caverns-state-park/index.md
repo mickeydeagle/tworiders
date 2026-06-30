@@ -3,7 +3,7 @@ title: "Florida Caverns State Park, Florida"
 type: "note"
 date: "2006-02-15"
 weight: 20060215
-author: "Mickey & Steve Deagle"
+author: "Steve"
 shortname: "Florida Caverns State Park"
 tags:
   - "Florida"

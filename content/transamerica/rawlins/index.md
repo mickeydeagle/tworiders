@@ -3,7 +3,7 @@ title: "Rawlins, Wyoming"
 type: "note"
 date: "2004-07-15"
 weight: 20040715
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Rawlins"
 tags:
   - "Wyoming"

@@ -3,7 +3,7 @@ title: "Charlottesville, Virginia"
 type: "note"
 date: "2004-08-24"
 weight: 20040824
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Charlottesville"
 tags:
   - "Virginia"

@@ -3,7 +3,7 @@ title: "A Note from Steve"
 type: "note"
 date: "2004-09-12"
 weight: 20040912
-author: "Mickey & Steve Deagle"
+author: "Steve"
 shortname: "A Note from Steve"
 tags:
   - "Notes"

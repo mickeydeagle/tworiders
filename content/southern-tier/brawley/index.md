@@ -3,7 +3,7 @@ title: "Brawley, California"
 type: "note"
 date: "2006-04-05"
 weight: 20060405
-author: "Mickey & Steve Deagle"
+author: "Steve"
 shortname: "Brawley"
 tags:
   - "California"

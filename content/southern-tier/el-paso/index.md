@@ -3,7 +3,7 @@ title: "El Paso, Texas"
 type: "note"
 date: "2006-03-22"
 weight: 20060322
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "El Paso"
 tags:
   - "Texas"

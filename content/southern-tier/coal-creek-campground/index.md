@@ -3,7 +3,7 @@ title: "Coal Creek Campground, Arizona"
 type: "note"
 date: "2006-03-28"
 weight: 20060328
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Coal Creek Campground"
 tags:
   - "Arizona"

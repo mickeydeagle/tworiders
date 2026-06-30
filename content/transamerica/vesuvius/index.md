@@ -3,7 +3,7 @@ title: "Vesuvius, Virginia"
 type: "note"
 date: "2004-08-22"
 weight: 20040822
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Vesuvius"
 tags:
   - "Virginia"

@@ -3,7 +3,7 @@ title: "Ennis, Montana"
 type: "note"
 date: "2004-07-07"
 weight: 20040707
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Ennis"
 tags:
   - "Montana"

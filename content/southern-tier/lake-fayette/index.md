@@ -3,7 +3,7 @@ title: "Lake Fayette, Texas"
 type: "note"
 date: "2006-03-06"
 weight: 20060306
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Lake Fayette"
 tags:
   - "Texas"

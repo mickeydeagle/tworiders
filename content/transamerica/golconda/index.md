@@ -3,7 +3,7 @@ title: "Golconda, Kentucky"
 type: "note"
 date: "2004-08-10"
 weight: 20040810
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Golconda"
 tags:
   - "Kentucky"

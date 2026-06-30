@@ -3,7 +3,7 @@ title: "Suwannee Music Park, Florida"
 type: "note"
 date: "2006-02-10"
 weight: 20060210
-author: "Mickey & Steve Deagle"
+author: "Steve"
 shortname: "Suwannee Music Park"
 tags:
   - "Florida"

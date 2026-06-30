@@ -3,7 +3,7 @@ title: "Eureka, Kansas"
 type: "note"
 date: "2004-07-31"
 weight: 20040731
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Eureka"
 tags:
   - "Kansas"

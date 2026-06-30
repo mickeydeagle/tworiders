@@ -3,7 +3,7 @@ title: "Palo Verde, California"
 type: "note"
 date: "2006-04-04"
 weight: 20060404
-author: "Mickey & Steve Deagle"
+author: "Steve"
 shortname: "Palo Verde"
 tags:
   - "California"

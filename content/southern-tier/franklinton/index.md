@@ -3,7 +3,7 @@ title: "Franklinton, Louisiana"
 type: "note"
 date: "2006-02-23"
 weight: 20060223
-author: "Mickey & Steve Deagle"
+author: "Steve"
 shortname: "Franklinton"
 tags:
   - "Louisiana"

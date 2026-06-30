@@ -3,7 +3,7 @@ title: "Elk Garden, Virginia"
 type: "note"
 date: "2004-08-18"
 weight: 20040818
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Elk Garden"
 tags:
   - "Virginia"

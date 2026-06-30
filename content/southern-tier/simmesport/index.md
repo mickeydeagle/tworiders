@@ -3,7 +3,7 @@ title: "Simmesport, Louisiana"
 type: "note"
 date: "2006-02-27"
 weight: 20060227
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Simmesport"
 tags:
   - "Louisiana"

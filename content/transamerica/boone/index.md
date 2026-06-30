@@ -3,7 +3,7 @@ title: "Boone, Colorado"
 type: "note"
 date: "2004-07-23"
 weight: 20040723
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Boone"
 tags:
   - "Colorado"

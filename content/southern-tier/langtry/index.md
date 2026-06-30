@@ -3,7 +3,7 @@ title: "Langtry, Texas"
 type: "note"
 date: "2006-03-14"
 weight: 20060314
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Langtry"
 tags:
   - "Texas"

@@ -3,7 +3,7 @@ title: "Yorktown, Virginia"
 type: "note"
 date: "2004-08-27"
 weight: 20040827
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Yorktown"
 tags:
   - "Virginia"

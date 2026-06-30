@@ -3,7 +3,7 @@ title: "Hartville, Missouri"
 type: "note"
 date: "2004-08-04"
 weight: 20040804
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Hartville"
 tags:
   - "Missouri"

@@ -3,7 +3,7 @@ title: "Pinos Altos, New Mexico"
 type: "note"
 date: "2006-03-27"
 weight: 20060327
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Pinos Altos"
 tags:
   - "New Mexico"

@@ -3,7 +3,7 @@ title: "Ocotillo, California"
 type: "note"
 date: "2006-04-06"
 weight: 20060406
-author: "Mickey & Steve Deagle"
+author: "Steve"
 shortname: "Ocotillo"
 tags:
   - "California"

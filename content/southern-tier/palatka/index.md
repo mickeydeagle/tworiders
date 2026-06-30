@@ -3,7 +3,7 @@ title: "Palatka, Florida"
 type: "note"
 date: "2006-02-07"
 weight: 20060207
-author: "Mickey & Steve Deagle"
+author: "Steve"
 shortname: "Palatka"
 tags:
   - "Florida"

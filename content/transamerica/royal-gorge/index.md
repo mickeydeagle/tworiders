@@ -3,7 +3,7 @@ title: "Royal Gorge, Colorado"
 type: "note"
 date: "2004-07-21"
 weight: 20040721
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Royal Gorge"
 tags:
   - "Colorado"

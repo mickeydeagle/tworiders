@@ -3,7 +3,7 @@ title: "Lander, Wyoming"
 type: "note"
 date: "2004-07-13"
 weight: 20040713
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Lander"
 tags:
   - "Wyoming"

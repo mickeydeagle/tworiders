@@ -3,7 +3,7 @@ title: "Madison Campground, Yellowstone, Wyoming"
 type: "note"
 date: "2004-07-09"
 weight: 20040709
-author: "Mickey Deagle"
+author: "Mickey"
 shortname: "Yellowstone"
 tags:
   - "Wyoming"
