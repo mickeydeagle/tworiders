@@ -16,8 +16,8 @@ Built with [Hugo](https://gohugo.io) and a hand-rolled theme, deployed to
   italic). Both are SIL Open Font License; license files sit beside the fonts.
 - **Cloudflare Workers** — free static hosting, built and deployed on every push.
 
-No external runtime dependencies: no jQuery, no web-font CDN, no analytics/tag
-manager. The lightbox is ~1 KB of vanilla JS (`assets/js/lightbox.js`).
+Client-side JavaScript is limited to the lightbox (`assets/js/lightbox.js`),
+written in vanilla JS. The site loads no third-party scripts or fonts.
 
 ## Local development
 
@@ -29,6 +29,17 @@ npm install        # installs Hugo via the hugo-extended package
 npm run dev        # http://localhost:1313  (live reload)
 npm run build      # production build into ./public
 ```
+
+## Updating the site
+
+To publish a change:
+
+1. Edit or add a Markdown file under `content/` (see below).
+2. `git add -A && git commit -m "…" && git push`.
+3. Cloudflare Workers Builds rebuilds and republishes from `main` in about a minute.
+
+The Hugo version is pinned (`hugo-extended` in `package.json`, with
+`package-lock.json`), so rebuilds run against a fixed Hugo release.
 
 ## Content
 
@@ -78,8 +89,8 @@ Drop the photos in the same folder.
 
 ## Deploying to Cloudflare Workers
 
-Deployment uses **Cloudflare Workers Builds** (Cloudflare watches the repo and
-builds on every push — no API tokens or GitHub Actions needed). One-time setup:
+Deployment uses **Cloudflare Workers Builds**: Cloudflare watches the repo and
+builds on every push to `main`. One-time setup:
 
 1. In the Cloudflare dashboard: **Workers & Pages → Create → Workers →
    Import a repository**, and connect `mickeydeagle/tworiders`.
