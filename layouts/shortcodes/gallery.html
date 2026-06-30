@@ -1,7 +1,7 @@
 {{- /* {{< gallery >}} — renders the images bundled with this note as a lightbox grid. */ -}}
 {{- $images := .Page.Resources.ByType "image" -}}
 {{- with $images }}
-<section class="gallery">
+<section class="gallery" data-count="{{ len $images }}">
   {{- range . }}
   {{- $t := partial "thumb.html" . }}
   <figure>

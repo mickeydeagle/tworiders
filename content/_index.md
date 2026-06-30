@@ -15,16 +15,16 @@ I rebuilt *Two Riders* using a <small>CMS</small> called Kirby. True to its orig
 
 <h2>Chapters</h2>
 <div class="toc">
-  <div class="toc-entry">
-      <div class="toc-chapter"><a href="/transamerica">The TransAmerica Trail</a></div>
-      <div class="toc-page"><a href="/transamerica">Jun 15–Aug 27, 2004</a></div>
-  </div>
-  <div class="toc-entry">
-    <div class="toc-chapter"><a href="/southern-tier">The Southern Tier</a></div>
-    <div class="toc-page"><a href="/southern-tier">Feb 5–Apr 8, 2006</a></div>
-  </div>
-  <div class="toc-entry">
-    <div class="toc-chapter"><a href="/photography">Photography</a></div>
-    <div class="toc-page"><a href="/photography">2004–2010</a></div>
-  </div>
+  <a class="toc-entry" href="/transamerica">
+    <span class="toc-chapter"><span>The TransAmerica Trail</span></span>
+    <span class="toc-page">Jun 15–Aug 27, 2004</span>
+  </a>
+  <a class="toc-entry" href="/southern-tier">
+    <span class="toc-chapter"><span>The Southern Tier</span></span>
+    <span class="toc-page">Feb 5–Apr 8, 2006</span>
+  </a>
+  <a class="toc-entry" href="/photography">
+    <span class="toc-chapter"><span>Photography</span></span>
+    <span class="toc-page">2004–2010</span>
+  </a>
 </div>

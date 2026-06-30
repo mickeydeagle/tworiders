@@ -5,7 +5,7 @@
   </header>
 
   {{- $albums := .Pages.ByWeight -}}
-  <ul class="albums"{{ if eq (mod (len $albums) 2) 0 }} data-even{{ end }}>
+  <ul class="albums">
     {{- range $album := $albums }}
     {{- $coverURL := $album.Params.cover -}}
     {{- with $album.Resources.GetMatch ($album.Params.cover | default "___none___") -}}
@@ -15,7 +15,7 @@
       <a href="{{ $album.RelPermalink }}">
         <figure>
           {{- with $coverURL }}<img src="{{ . }}" alt="{{ $album.Title }}" loading="lazy" decoding="async">{{ end }}
-          <figcaption>{{ $album.Title }}</figcaption>
+          <figcaption>{{ $album.Title | replaceRE "([a-z])([A-Z])" (printf "$1%c$2" 0xad) }}</figcaption>
         </figure>
       </a>
     </li>

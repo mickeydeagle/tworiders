@@ -15,10 +15,10 @@
     <h2>{{ $state }}</h2>
     <div class="toc">
       {{- range $pages }}{{ if in .Params.tags $state }}
-      <div class="toc-entry">
-        <div class="toc-chapter"><a href="{{ .RelPermalink }}">{{ .Params.shortname | default .Title }}</a></div>
-        <div class="toc-page"><a href="{{ .RelPermalink }}"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2" }}</time></a></div>
-      </div>
+      <a class="toc-entry" href="{{ .RelPermalink }}">
+        <span class="toc-chapter"><span>{{ .Params.shortname | default .Title }}</span></span>
+        <span class="toc-page"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2" }}</time></span>
+      </a>
       {{- end }}{{ end }}
     </div>
     {{- end }}

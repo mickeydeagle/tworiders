@@ -22,7 +22,7 @@
     </div>
 
     {{- $images := .Resources.ByType "image" }}
-    <ul class="album-gallery"{{ if eq (mod (len $images) 2) 0 }} data-even{{ end }} data-count="{{ len $images }}">
+    <ul class="album-gallery" data-count="{{ len $images }}">
       {{- range $images }}
       {{- $t := partial "thumb.html" . }}
       <li>
