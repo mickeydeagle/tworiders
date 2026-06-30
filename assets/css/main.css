@@ -69,23 +69,26 @@ sup { font-size: 0.7em; vertical-align: top; position: relative; top: -0.5em; }
 small { font-size: 1em; }
 .menu a, .text h2, .tags, .post-navigation-title { font-weight: var(--sc); }
 
-/* ── Links ───────────────────────────────────────────────────
-   · prose links carry a permanent warm-grey underline that inks in
-   · structural links reveal a 1px underline on hover                */
-a {
-  color: currentColor; text-decoration: none;
-  text-decoration-thickness: 1px; text-underline-offset: 0.16em;
-}
-.text a, .footer a {
-  text-decoration: underline; text-decoration-color: var(--underline);
-  transition: text-decoration-color 0.2s ease;
-}
-.text a:hover, .footer a:hover { text-decoration-color: currentColor; }
-.menu a, .post-navigation a {
+/* ── Links — one underline, defined once ─────────────────────
+   Every link and control — prose, footer, top nav, pager, lightbox,
+   and the TOC chapter titles — shares one underline geometry and one
+   hover: it inks in to the text colour at 2px / 0.16em. Prose & footer
+   also rest with a grey underline so a link reads as one without
+   hovering; the rest stay bare until hover (the TOC on row hover).   */
+a { color: currentColor; text-decoration: none; }
+.text a, .footer a,
+.menu a, .post-navigation a,
+.lb-prev, .lb-next, .lb-close,
+.toc-chapter > span {
   text-decoration: underline; text-decoration-color: transparent;
+  text-decoration-thickness: 2px; text-underline-offset: 0.16em;
   transition: text-decoration-color 0.2s ease;
 }
-.menu a:hover, .menu a[aria-current], .post-navigation a:hover { text-decoration-color: currentColor; }
+.text a, .footer a { text-decoration-color: var(--underline); }
+.text a:hover, .footer a:hover,
+.menu a:hover, .menu a[aria-current], .post-navigation a:hover,
+.lb-prev:hover, .lb-next:hover, .lb-close:hover,
+.toc-entry:hover .toc-chapter > span { text-decoration-color: currentColor; }
 
 /* ── Wide / breakout images ─────────────────────────────────── */
 .img-wide { margin-left: -5vw; margin-right: -5vw; }
@@ -100,6 +103,9 @@ a {
   display: flex; flex-direction: column; align-items: center;
   margin-bottom: 2rem; padding-bottom: 1rem; border-bottom: 1px solid var(--rule);
 }
+/* On album pages the cover photo butts up against the masthead rule,
+   so the photo itself divides header from body. */
+.header:has(+ .album-header) { margin-bottom: 0; }
 .header .logo { display: block; margin-bottom: 1.25rem; padding: 0.5rem 0; }
 .header .logo img { height: 3.75rem; width: auto; }
 .menu { text-align: center; line-height: 2; }
@@ -186,7 +192,6 @@ blockquote { font-style: italic; padding-left: 1.25em; border-left: 2px solid va
 }
 .toc-page { font-style: italic; white-space: nowrap; }
 .toc a { text-decoration: none; }
-.toc-entry:hover .toc-chapter > span { text-decoration: underline; text-underline-offset: 0.16em; }
 
 /* ============================================================
    Galleries — one count-aware responsive grid everywhere
@@ -264,9 +269,9 @@ blockquote { font-style: italic; padding-left: 1.25em; border-left: 2px solid va
 .lb-figure img {
   display: block; width: auto; height: auto;
   max-width: 92vw; max-height: 72vh; object-fit: contain;
-  background: var(--tint); box-shadow: 0 0.6rem 2.75rem rgba(0,0,0,0.16);
+  background: var(--tint);
 }
-.lb-meta { max-width: 92vw; margin-top: 1rem; }   /* width overridden in JS to the image's */
+.lb-meta { max-width: 92vw; margin-top: 0.5rem; }   /* width overridden in JS to the image's */
 .lb-caption {
   font-style: italic; font-size: 1rem; line-height: 1.4;
   text-align: left; color: var(--ink);
@@ -280,8 +285,6 @@ blockquote { font-style: italic; padding-left: 1.25em; border-left: 2px solid va
 .lb-prev, .lb-next, .lb-close {
   border: 0; background: none; padding: 0; cursor: pointer; color: var(--ink); font-family: var(--serif);
   font-variant-caps: all-small-caps; font-weight: var(--sc); letter-spacing: 0.05em; font-size: 1rem;
-  text-decoration: underline; text-decoration-color: transparent; transition: text-decoration-color 0.2s ease;
 }
-.lb-prev:hover, .lb-next:hover, .lb-close:hover { text-decoration-color: currentColor; }
 
 @media (prefers-reduced-motion: reduce) { *, *::before, *::after { transition-duration: 0.01ms !important; } }
